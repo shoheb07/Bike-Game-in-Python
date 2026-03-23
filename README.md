@@ -7,7 +7,7 @@ Random obstacles
 Score tracking
 Game over screen
 
-# Bike Racing Game (Python)
+
 
 Simple 2D bike racing game using Pygame.
 
